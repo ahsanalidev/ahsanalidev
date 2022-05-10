@@ -40,7 +40,7 @@
 
 <hr/>
 
-Hi, I'm **Ahsan**. A passionate and curiosity-driven Software Engineer with 7 years of experience and a Bachelor's degree in Computer Science.
+Hi, I'm **Ahsan**. A passionate and curiosity-driven Software Engineer with 4 years of experience and a Bachelor's degree in Electrical Engineering and a Master's degree in Computer Science.
 
 From developing mobile applications for a living to several projects across various platforms as a hobby. I have spent the last several years exploring various genres and paradigms of information technology working along with countless brilliant minds. My journey so far has included contributions to projects both as a team member and an individual contractor.
 
