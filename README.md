@@ -56,5 +56,5 @@ Also, I'm available on the weekends for non-profit and open source contributions
 
 ## 📈 Public GitHub Stats
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xuhaibahmad&show_icons=true&count_private=true&include_all_commits=true&hide=contribs" alt="ahsanalidev" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanalidev&show_icons=true&count_private=true&include_all_commits=true&hide=contribs" alt="ahsanalidev" /></div>
 
