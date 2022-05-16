@@ -1,7 +1,7 @@
 
 <div align="center">
   <h3>Ahsan Ali</h3>
-  <h4>Sr. Software Engineer</br>(Flutter/React/Javascript)</h4>
+  <h4>Sr. Software Engineer</br>(Flutter/React/Nodejs)</h4>
 </div>
 
 </br>
